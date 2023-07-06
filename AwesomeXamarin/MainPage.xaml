@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AwesomeXamarin.MainPage">
+
+    <StackLayout>
+        <!--<Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Learn more at "/>
+                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>-->
+        <!--<Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="5*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="332*" />
+                <RowDefinition Height="335*"/>
+            </Grid.RowDefinitions>
+
+            
+            <!--<TextBox Name="CountHere" Foreground="Azure" Height="200" Width="200" Grid.Row="0" Grid.Column="1">Initial</TextBox>-->
+            <Label x:Name="CountHere" BackgroundColor="#0000FF" TextColor="#FFFFFF" HeightRequest="5" WidthRequest="100" Text="TEST" Grid.Row="0" Grid.Column="0" Margin="50"></Label>
+            
+            <Button x:Name="ClickMe" Clicked="Button_Clicked" Margin="0,317,0,0"  Background="#00CC00" Grid.Row="0" Grid.Column="0" Text="Click Me" TextColor="#FFFFFF"></Button>
+
+
+
+        </Grid>
+    </StackLayout>
+
+    <!--<Border Background="#2f5cb6" />
+    <Border Grid.Column="1" Background="#1f3d7a" />
+    <Border Grid.Row="1" Grid.ColumnSpan="2" Background="#152951" />
+
+    <StackPanel Grid.Row="0" Grid.Column="0" VerticalAlignment="Center">
+
+    </StackPanel>
+    <StackPanel Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+    </StackPanel>-->
+
+</ContentPage>

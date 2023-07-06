@@ -1,0 +1,15 @@
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\bin\Debug\netstandard2.0\AwesomeXamarin.deps.json
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\bin\Debug\netstandard2.0\AwesomeXamarin.dll
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\bin\Debug\netstandard2.0\ref\AwesomeXamarin.dll
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\bin\Debug\netstandard2.0\AwesomeXamarin.pdb
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\obj\Debug\netstandard2.0\AwesomeXamarin.csproj.AssemblyReference.cache
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\obj\Debug\netstandard2.0\AwesomeXamarin.GeneratedMSBuildEditorConfig.editorconfig
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\obj\Debug\netstandard2.0\AwesomeXamarin.AssemblyInfoInputs.cache
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\obj\Debug\netstandard2.0\AwesomeXamarin.AssemblyInfo.cs
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\obj\Debug\netstandard2.0\AwesomeXamarin.csproj.CoreCompileInputs.cache
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\obj\Debug\netstandard2.0\AwesomeXamarin.dll
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\obj\Debug\netstandard2.0\refint\AwesomeXamarin.dll
+D:\github-heidi01\AwesomeXamarin\AwesomeXamarin\obj\Debug\netstandard2.0\AwesomeXamarin.pdb
